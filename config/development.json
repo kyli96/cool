@@ -1,0 +1,14 @@
+{
+    "mysql": {
+        "username": "lishouse",
+        "password": "lishouse",
+        "database": "lishouse",
+        "host": "localhost",
+        "port": "3306"
+    },
+    "redis" : {
+        "host": "localhost",
+        "port": "6379"
+    },
+    "logLevel" : "debug"
+}
